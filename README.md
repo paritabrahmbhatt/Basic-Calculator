@@ -1,5 +1,5 @@
 # Basic-Calculator
-This calculator was developed using Python and the user interface was designed by using Tkinter.
+This calculator was developed using Python and the user interface was designed with Tkinter.
 
 ## Dependency
 1. Tkinter
