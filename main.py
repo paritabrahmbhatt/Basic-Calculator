@@ -109,5 +109,6 @@ btnplus.grid(row=4,column=3)
 btnclr = Button(root,text = 'C',bd = '4',command = lambda:clear(),
     background= 'rosybrown1',font = buttonFont,height = 1, width = '7')
 btnclr.grid(row = 5,column=0)
+
 root.mainloop()
 
