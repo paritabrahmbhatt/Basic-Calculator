@@ -8,4 +8,4 @@ This calculator was developed using Python and the user interface was designed b
 Run `python main.py`
 
 ## Output
-Check the final system on my [youtube](https://www.youtube.com/watch?v=zvTaOsZiM7A)
+Check the final [output](https://www.youtube.com/watch?v=zvTaOsZiM7A).
